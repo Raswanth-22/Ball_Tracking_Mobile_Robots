@@ -1,5 +1,5 @@
 # Ball-Tracking-Mobile-Robots
-University project for Mobile Robotics class.
+
 
 Omnidirectional and diferential robots control for tracking a ball in coppelia sim.
 
